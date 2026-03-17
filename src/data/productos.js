@@ -18,7 +18,7 @@ export default [
   { 
     id: 3, 
     nombre: 'Postes y vigas', 
-    precioMetro: 52000, 
+    precioMetro: 15000, 
     img: postesImg   // ← temporal hasta que agregues postes.jpeg
   }
 ]
