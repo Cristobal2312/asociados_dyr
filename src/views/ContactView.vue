@@ -127,7 +127,7 @@
               <div class="info-icon">📍</div>
               <div>
                 <h3>Dirección</h3>
-                <p>Ubicación a definir</p>
+                <p>VI Region, chile</p>
               </div>
             </div>
             <div class="info-item">
