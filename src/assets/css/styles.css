@@ -1,21 +1,21 @@
 /* Global styles and theme variables - src/assets/css/styles.css */
 :root{
   --navbar-height: 84px;
+  --bg: #0b0b0b;
+  --surface: #13161d;
+  --text: #f5f7ff;
+  --muted: rgba(255,255,255,0.75);
+  --accent: #00c6ff;
+  --glass: rgba(255,255,255,0.08);
+}
+
+[data-theme="light"]{
   --bg: #ffffff;
   --surface: #ffffff;
   --text: #0b0b0b;
   --muted: rgba(11,11,11,0.68);
   --accent: #0066ff;
   --glass: rgba(255,255,255,0.6);
-}
-
-[data-theme="dark"]{
-  --bg: #0b0b0b;
-  --surface: #0f1113;
-  --text: #ffffff;
-  --muted: rgba(255,255,255,0.78);
-  --accent: #00c6ff;
-  --glass: rgba(12,13,15,0.5);
 }
 
 html, body, #app{
